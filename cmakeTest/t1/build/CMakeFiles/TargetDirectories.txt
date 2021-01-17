@@ -1,0 +1,3 @@
+/home/uos/Desktop/myResources/cmakeTest/t1/build/CMakeFiles/rebuild_cache.dir
+/home/uos/Desktop/myResources/cmakeTest/t1/build/CMakeFiles/hello.dir
+/home/uos/Desktop/myResources/cmakeTest/t1/build/CMakeFiles/edit_cache.dir
